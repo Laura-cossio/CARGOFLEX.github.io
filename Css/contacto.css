@@ -10,10 +10,10 @@ body {
     min-height: 100vh;
 }
 h3{
-  color: white;
+  color: black;
 }
 p{
-  color: white;
+  color: black;
 }
 a{
   color: red;
@@ -70,5 +70,5 @@ max-width: 800px;
 .address-section p {
   margin-bottom: 10px;
   font-size: 16px;
-  color: white;
+  color: black;
 }
