@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: gray;
+  background-image: url('../imagenes/coti.png');
   background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
